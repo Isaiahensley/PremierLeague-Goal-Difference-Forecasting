@@ -1,4 +1,6 @@
 # PremierLeagueNet-Goal-Difference-Forecasting
+The datasets used in this project were obtained from the English Premier League collection available at https://www.kaggle.com/datasets/saife245/english-premier-league.
+
 
 **Abstract:**
 This paper explores the use of machine learning models to predict outcomes in the English Premier League (EPL) results over the course of multiple seasons. Using a model trained on goal differentials from a previous season, the model will predict results for the next season. The model is able to determine whether a team is likely to win or lose by using the predicted goal difference data. Our model assumes that all teams in both seasons consist of the same players. This project achieves the best results when using linear regression compared to other models such as RandomForestRegressor, DecisionTreeRegressor, and SVR. This method provides a basis for further improvements and offers insightful information about the difficulties involved in predicting the results of football games.
